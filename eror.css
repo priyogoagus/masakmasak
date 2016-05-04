@@ -1,0 +1,83 @@
+body{
+	background-image:url("images/bg.jpg");
+	font-family:Droid Sans;
+}
+/* LIST*/
+*{
+	margin:0;
+	padding:0;
+}
+
+li{
+	margin-top:20px;
+	margin-bottom:10px;
+	background-color:#1385ab;
+	list-style:none;
+	float:left;
+	width:33.33%;
+	text-align:center;
+	font-size:40px;
+	height:80px;
+	line-height:80px;
+}
+
+li:hover{
+	background-color:#3f8faa;
+}
+
+a{
+	text-decoration:none;
+	color:white;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+#batas{
+	margin:20px
+}
+
+#box{
+	width:1150px;
+	height:520px;
+	background-color:rgba(19, 133, 171, 0.7);
+	margin-left:105px;
+	margin-bottom:190px;
+}
+
+.logo{
+	text-align:center;
+	margin-top:-400px;
+}
+
+#kata{
+	text-align:center;
+	font-size:50px;
+	margin-top:-370px;
+	color:white;
+	letter-spacing:5px;
+	word-spacing:5px;
+}
+
+#cp{
+	margin-top:220px;
+	color:white;
+	text-align:center;
+}
+
+.contact{
+	text-align:center;
+	margin-top:10px;
+}
+
+#foot{
+	margin-top:30px;
+	margin-bottom:20px;
+	width:1349px;
+	height:85px;
+	background-color:#1385ab;
+	color:white;
+	text-align:center;
+	line-height:85px;
+}

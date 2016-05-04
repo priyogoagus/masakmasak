@@ -1,0 +1,135 @@
+body{
+	background-image:url("images/bg.jpg");
+	font-family:Droid Sans;
+}
+/* LIST*/
+*{
+	margin:0;
+	padding:0;
+}
+
+li{
+	margin-top:20px;
+	margin-bottom:10px;
+	background-color:#1385ab;
+	list-style:none;
+	float:left;
+	width:33.33%;
+	text-align:center;
+	font-size:40px;
+	height:80px;
+	line-height:80px;
+}
+
+li:hover{
+	background-color:#3f8faa;
+}
+
+a{
+	text-decoration:none;
+	color:white;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+#batas{
+	margin:20px
+}
+
+#box{
+	width:1150px;
+	height:520px;
+	background-color:rgba(19, 133, 171, 0.7);
+	margin-left:105px;
+	margin-bottom:190px;
+}
+
+.logo{
+	text-align:center;
+	margin-top:-400px;
+}
+
+#box2{
+	width:1150px;
+	height:500px;
+	background-color:rgba(19, 133, 171, 0.7);
+	margin-left:105px;
+	margin-top:230px;
+	margin-bottom:150px;
+}
+
+#kata{
+	text-align:center;
+	font-size:50px;
+	margin-top:-370px;
+	color:white;
+	letter-spacing:5px;
+	word-spacing:5px;
+}
+
+.gambar{
+	margin-top:-590px;
+	text-align:center;
+}
+
+.kata2{
+	font-size:30px;
+	float:left;
+	padding-left:50px;
+	margin-left:270px;
+	text-align:center;
+	margin-top:-260px;
+	color:white;
+}
+
+#more{
+	color:white;
+	margin-left:635px;
+}
+
+#box3{
+	width:1150px;
+	height:500px;
+	background-color:rgba(19, 133, 171, 0.7);
+	margin-left:105px;
+	margin-top:140px;
+	margin-bottom:150px;
+}
+
+.kata3{
+	font-size:20px;
+	float:left;
+	margin-left:280px;
+	text-align:center;
+	margin-top:10px;
+	color:white;
+}
+
+.tips{
+	margin-top:-590px;
+	text-align:center;
+}
+
+#cp{
+	margin-top:100px;
+	color:white;
+	text-align:center;
+}
+
+.contact{
+	text-align:center;
+	margin-top:10px;
+}
+
+#foot{
+	margin-top:30px;
+	margin-bottom:20px;
+	width:1349px;
+	height:85px;
+	background-color:#1385ab;
+	color:white;
+	text-align:center;
+	line-height:85px;
+}
